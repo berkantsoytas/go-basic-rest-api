@@ -1,3 +1,7 @@
 # go-basic-rest-api
 
-Coming soon.
+Run Project
+
+```
+    go run main.go
+```
